@@ -29,7 +29,7 @@
 ## 🛠️ Технології
 - HTML5, CSS3
 - Adaptive design
-- JavaScript (ES6+)
+- JavaScript
 - React, React Router
 - Redux
 - Git, GitHub
