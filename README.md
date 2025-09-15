@@ -32,7 +32,7 @@
 - JavaScript
 - React, React Router
 - Redux
-- Git, GitHub
+- GitHub
 
 ---
 
